@@ -17,7 +17,7 @@
 				"folderPath": "delighted",
 				"container": "land"
 			},
-			"columnDelimiter": ",",
+			"columnDelimiter": "|",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
 			"quoteChar": "\""
