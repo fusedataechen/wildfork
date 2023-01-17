@@ -17,7 +17,7 @@
 				"folderPath": "delighted/raw",
 				"container": "land"
 			},
-			"columnDelimiter": ",",
+			"columnDelimiter": "|",
 			"rowDelimiter": "\n",
 			"escapeChar": "\\",
 			"firstRowAsHeader": false,
