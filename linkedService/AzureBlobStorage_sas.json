@@ -5,7 +5,7 @@
 		"annotations": [],
 		"type": "AzureBlobStorage",
 		"typeProperties": {
-			"sasUri": "https://wildforknonprodsapdata.blob.core.windows.net/land?sp=racwdlmeop&st=2023-01-17T20:39:14Z&se=2024-01-18T04:39:14Z&spr=https&sv=2021-06-08&sr=c&sig=uNu50H0R2oOUAjYJsa%2BWzBO77tgHYbGaC%2Bz4ImjGbu4%3D?sp=racwdlmeop&st=2023-01-17T20:39:14Z&se=2024-01-18T04:39:14Z&spr=https&sv=2021-06-08&sr=c&sig=uNu50H0R2oOUAjYJsa%2BWzBO77tgHYbGaC%2Bz4ImjGbu4%3D"
+			"sasUri": "https://wildforknonprodsapdata.blob.core.windows.net/?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupyx&se=2024-01-18T06:23:28Z&st=2023-01-17T22:23:28Z&spr=https&sig=NRX7C6Y0uc61%2FSBalmvAK4T1lwc%2FcqwKfRJcl77C00U%3D?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupyx&se=2024-01-18T06:23:28Z&st=2023-01-17T22:23:28Z&spr=https&sig=NRX7C6Y0uc61%2FSBalmvAK4T1lwc%2FcqwKfRJcl77C00U%3D"
 		}
 	}
 }
